@@ -1,0 +1,40 @@
+.block_red{
+    background-color: red;
+    width: 99%;
+    height: 350px;
+  }
+.block_blue{
+
+    background-color: blue;
+    width: 49%;
+    height: 250px;
+    float: left;
+
+}
+.block_green{
+    background-color: green;
+    width:50%;
+    height: 250px;
+    float: left;
+}
+.block_pink{
+    background-color: pink;
+    width:33%;
+    height: 50px;
+    float: left;
+}
+.block_purple{
+
+    background-color: purple;
+    width:33%;
+    height: 50px;
+    float: left;
+}
+
+.block_yellow{
+
+    background-color: yellow;
+    width:33%;
+    height: 50px;
+    float :left ;
+}

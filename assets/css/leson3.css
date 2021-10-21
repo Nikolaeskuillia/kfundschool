@@ -1,0 +1,49 @@
+img{
+
+    width: 40px;
+    height: 40px;
+}
+th{
+
+    border : 2px solid black;
+
+    height: 90px;
+    
+    text-align: center;
+}
+td{
+
+    border : 2px solid black;
+
+    height: 90px;
+    
+    text-align: center;
+}
+body {
+
+	background: linear-gradient(90deg, #f598a8, #f6edb2);
+
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+td:hover{
+    
+    background: rgb(36,32,0);
+    background: linear-gradient(90deg, rgba(36,32,0,0.8323530095632002) 0%, rgba(217,201,19,0.9528011888349089) 0%, rgba(91,255,0,1) 100%); 
+    color: grey;
+}
+
+th:hover{
+    color: grey;
+}
+
+h1{
+    text-align: center;
+}
+h1:hover{
+    color: grey;
+
+}
+
