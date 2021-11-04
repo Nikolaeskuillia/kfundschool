@@ -15,7 +15,7 @@ body{
 
 .header-inner{
 
-    background-color: rgb(84, 146, 204);
+    background-color: black;
     height:200px;
     display: flex;
     justify-content: center;
@@ -27,17 +27,12 @@ h2{
     color: white;
 
 }
-
-
-/*main*/
-
-
 .main-left{
 
     width: 35%;
     height: 600px;
 
-    background-color:darkorchid;
+    background-color:gold;
     margin-top: -16px;
     float: left;
 }
@@ -50,12 +45,13 @@ ul li{
     margin: 24px ;
 }
 
-
+/*main*/
 
 .main-right{
 
     width: 65%;
     height: 600px;
+    
     background-color:mediumslateblue;
     margin-top: -16px;
     float: right;
@@ -67,56 +63,16 @@ img{
 
 }
 
+.main-right-img{
 
+    display: flex;
+    justify-content: center;
+    margin-top: 16px;
+}
 
 .main-right-title{
 
     display: flex;
     justify-content: center;
-
-}
-.right_box_one{
-
-    width: 120px;
-    height: 100px;
-    background-color :greenyellow;
-    margin: 70px;
-    margin-top: -7px;
-}
-.right_box_two{
-
-    width: 120px;
-    height: 100px;
-    background-color :greenyellow;
-    margin: 70px;
-    margin-top: -7px;
-}
-.right_box_three{
-
-    width: 120px;
-    height: 100px;
-    background-color :greenyellow;
-    margin: 70px;
-    margin-top: -7px;
-}
-.right_boxes{
-
-    display: flex;
-    float: space-evenly;
-
-}
-
-
-/*footer*/
-
-
-.footer-inner{
-
-    background-color: rgb(84, 146, 204);
-    width: 1200px;
-    height:200px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-
+    
 }
