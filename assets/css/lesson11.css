@@ -1,0 +1,136 @@
+/*japan*/
+
+
+
+
+
+
+.back{
+
+    border: 2px solid #c2b7b2;
+    width: 300px;
+    height: 150px;
+}
+
+.circle{
+
+    background-color: red;
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: -125px;bottom: 25px;right:100px;left:100px;
+
+}
+
+
+
+
+/*instagram*/
+
+
+
+
+.layer__1{
+    width: 150px;
+    height: 150px;
+    background: rgb(131,58,180);
+    background: linear-gradient(63deg, rgba(131,58,180,1) 0%, rgba(180,58,58,1) 54%, rgba(131,58,180,1) 100%);
+    border-radius: 30px;
+}
+.layer__2{
+
+    width: 120px;
+    height: 120px;
+    border-radius: 30px;
+    background-color: white;
+    position: relative;
+    top:  -135px; left: 15px;
+
+}
+.layer__3{
+
+    width: 110px;
+    height: 110px;
+    background: rgb(131,58,180);
+    background: linear-gradient(63deg, rgba(131,58,180,1) 0%, rgba(180,58,58,1) 54%, rgba(131,58,180,1) 100%);
+    border-radius: 30px;
+    position: relative;
+    top:  -250px; left: 20px;
+
+}
+.layer__4{
+
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+    background-color: white;
+    position: relative;
+    top:  -340px; left: 40px;
+
+}
+.layer__5{
+
+    width: 60px;
+    height: 60px;
+    background: rgb(131,58,180);
+    background: linear-gradient(63deg, rgba(131,58,180,1) 0%, rgba(180,58,58,1) 54%, rgba(131,58,180,1) 100%);
+    border-radius: 50px;
+    position: relative;
+    top:  -405px; left: 45px;
+
+}
+.layer__6{
+
+    width: 7px;
+    height: 7px;
+    border-radius: 50px;
+    background-color: white;
+    position: relative;
+    top:  -475px; left: 105px;
+
+}
+
+/*soichka*/
+
+
+
+.spichka{
+
+    position: relative;
+    top:  -150px; left: 80px;
+
+
+}
+.stick{
+
+    width: 15px;
+    height: 150px;
+    background-color: rgb(129, 69, 29);
+    z-index: 1;
+}
+
+.spichka__circle{
+
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    background-color: rgb(17, 17, 17);
+    position: relative;
+    top:  -170px; left: -7px;
+    z-index: 3;
+
+}
+.first__fire{
+
+    width: 100px;
+    height: 100px;
+    transform: rotate(45deg);
+    border-radius: 50px;
+    background-color: #f5d020;
+    background-image: linear-gradient(315deg, #f5d020 0%, #f53803 74%);;
+    position: relative;
+    top:  -260px; left: -43px;
+    z-index: 2;
+    border-top-left-radius: 0px;
+}

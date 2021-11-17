@@ -1,0 +1,17 @@
+td{
+
+    border-left: 3px solid rgb(32, 19, 216);
+
+}
+
+table{
+    margin: 0 auto;
+    width: 600px ;
+    height: 800px;
+}
+
+.zagolovok{
+
+    text-align: center;
+
+}
